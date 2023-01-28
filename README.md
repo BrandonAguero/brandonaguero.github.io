@@ -1,2 +1,2 @@
 # mi_pagina_web
-Mi portafolio 
+Una pagina web sobre mí
